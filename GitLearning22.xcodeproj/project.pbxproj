@@ -15,6 +15,7 @@
 		0D4AA2771E7A6E8A00795C34 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D4AA2751E7A6E8A00795C34 /* LaunchScreen.storyboard */; };
 		0D4AA2821E7A6E8A00795C34 /* GitLearning22Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4AA2811E7A6E8A00795C34 /* GitLearning22Tests.swift */; };
 		0D4AA28D1E7A6E8A00795C34 /* GitLearning22UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4AA28C1E7A6E8A00795C34 /* GitLearning22UITests.swift */; };
+		0D4AA29B1E7A706000795C34 /* Mapview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4AA29A1E7A706000795C34 /* Mapview.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0D4AA2881E7A6E8A00795C34 /* GitLearning22UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitLearning22UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D4AA28C1E7A6E8A00795C34 /* GitLearning22UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitLearning22UITests.swift; sourceTree = "<group>"; };
 		0D4AA28E1E7A6E8A00795C34 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0D4AA29A1E7A706000795C34 /* Mapview.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Mapview.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				0D4AA2691E7A6E8900795C34 /* AppDelegate.swift */,
 				0D4AA26B1E7A6E8900795C34 /* ViewController.swift */,
 				0D4AA26D1E7A6E8900795C34 /* Main.storyboard */,
+				0D4AA29A1E7A706000795C34 /* Mapview.swift */,
 				0D4AA2731E7A6E8A00795C34 /* Assets.xcassets */,
 				0D4AA2751E7A6E8A00795C34 /* LaunchScreen.storyboard */,
 				0D4AA2781E7A6E8A00795C34 /* Info.plist */,
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0D4AA26C1E7A6E8900795C34 /* ViewController.swift in Sources */,
+				0D4AA29B1E7A706000795C34 /* Mapview.swift in Sources */,
 				0D4AA2721E7A6E8A00795C34 /* GitLearning22.xcdatamodeld in Sources */,
 				0D4AA26A1E7A6E8900795C34 /* AppDelegate.swift in Sources */,
 			);
